@@ -26,5 +26,6 @@ svip.iocoder.cn
 yudao
 z888
 
+https://github.com/Seazean/JavaNote/tree/main
 
 https://www.yuque.com/u21195183
